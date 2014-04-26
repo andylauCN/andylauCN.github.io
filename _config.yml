@@ -29,10 +29,7 @@ excerpt_separator: "\n\n"
 safe:        false
 watch:       false    # deprecated
 server:      false    # deprecated
-host:        0.0.0.0
-port:        4000
-baseurl:     /andy
-url:         http://andylaucn.github.io/andy
+url:         http://andylaucn.github.io
 lsi:         false
 
 maruku:
